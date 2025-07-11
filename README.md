@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring Software engineer <br>| Passionate About Cloud & Web Development <br>|Knows  Python| Java | C | C++ <br>|RV University |Bengaluru, Karnataka, India.<br>
+Aspiring Software engineer <br>| Passionate About Cloud & Web Development <br>|Knows  Python| Java | C | C++ <br>|RV University |Bengaluru, Karnataka, India<br>
 
 
 ## 🌐 Socials:
